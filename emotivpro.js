@@ -61,6 +61,6 @@ function records(recordNum, prefix){
     }
 }
 
-const recordNum = 2;
-const prefix = "hello_world_";
-records(recordNum, prefix);
+const recordNum = 100;
+const recordPrefix = "hello_world_";
+records(recordNum, recordPrefix);
